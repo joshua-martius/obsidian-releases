@@ -7604,7 +7604,7 @@
   {
     "id": "tag-many",
     "name": "TagMany",
-    "description": "This plugin allows you to add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once.",
+    "description": "Add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once.",
     "author": "Joshua Martius",
     "repo": "joshua-martius/tagmany"
   },
